@@ -1,5 +1,5 @@
 cloud_id = "b1g8dn6s3v2eiid9dbci"
-az_name_list = ["ru-central1-d", "ru-central1-b"]
+az_name_list = ["ru-central1-a", "ru-central1-b"]
 security_segment_names = ["mgmt", "public", "dmz"]
 zone1_subnet_prefix_list = ["192.168.1.0/24", "172.16.1.0/24", "10.160.1.0/24"]
 zone2_subnet_prefix_list = ["192.168.2.0/24", "172.16.2.0/24", "10.160.2.0/24"]
